@@ -7,8 +7,8 @@
 -> packages required = "pandas", "snscrape"
                     
 -> usage :
-            - clone the repository by executing "git clone https://github.com/Ravipandey24/TwitterNews-scrapped.git" \n
-            - install the packages by executing "pip install pandas && pip install snscrape" \n
-            - cd to the folder and run the script "python index.py" \n
-            - After execution a news.csv file will be available. \n
-             
+
+            - clone the repository by executing "git clone https://github.com/Ravipandey24/TwitterNews-scrapped.git"  
+            - install the packages by executing "pip install pandas && pip install snscrape"  
+            - cd to the folder and run the script "python index.py"  
+            - After execution a news.csv file will be available. 
